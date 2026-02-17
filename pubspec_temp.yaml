@@ -1,0 +1,3 @@
+# Copy your existing pubspec.yaml content here, but change:
+# firebase_core: ^2.32.0
+# firebase_auth: ^4.20.0
