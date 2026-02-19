@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554847848618",
+    "project_id": "skinsync-b1c3c",
+    "storage_bucket": "skinsync-b1c3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554847848618:android:fed1fa6d906cf6c15fe8d3",
+        "android_client_info": {
+          "package_name": "com.example.skincare_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeBN-y8tTqMMyU5V19s4jgS73WcnmGEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
